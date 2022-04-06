@@ -68,6 +68,7 @@ namespace SingleDeg0fFreedomSystemsVibrationCalculator
                 q = Math.Round(q, 2);
                 tr = Math.Round(tr, 2);
                 fd = Math.Round(fd, 2);
+                //asdasd
 
 
 
